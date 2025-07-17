@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: simple-web
-          image: sehi5528/simple-web
+          image: sehi5528/simple-web:7
           ports:
             - containerPort: 80
